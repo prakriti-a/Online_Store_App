@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Online Store App</string>
+    <string name="brand_product">"Buy From Brands"</string>
+    <string name="enter_email">Enter Your Email ID</string>
+    <string name="enter_password">Enter Your Password</string>
+    <string name="log_in">LOG IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="logo">Online Store App Logo</string>
+    <string name="enter_username">Enter Your Username</string>
+    <string name="confirm_password">Re-Enter Your Password</string>
+    <string name="go_to_log_in">GO TO LOGIN</string>
+    <string name="go_to_sign_up">GO TO SIGN UP</string>
+    <string name="brands_title">Available Brands</string>
+    <string name="error">Error occurred\nPlease try again</string>
+
+    <string name="id">"ID: "</string>
+    <string name="name">"NAME: "</string>
+    <string name="brand">"BRAND: "</string>
+    <string name="price">"PRICE: "</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="product_quantity">Enter Quantity</string>
+    <string name="add_to_cart">ADD TO CART</string>
+    <string name="view_cart">Items in your Cart</string>
+    <string name="continue_shopping">Continue Shopping</string>
+    <string name="verify_order">Verify Order</string>
+    <string name="decline_order">Decline Order</string>
+    <string name="confirm_order">Confirm Your Order</string>
+    <string name="make_payment">Make Payment</string>
+    <string name="thank_you">Thank You For Your Purchase!</string>
+    <string name="sorry_error">Sorry, something went wrong\nPlease try again</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".QuantityDialogFragment">
+
+    <EditText
+        android:id="@+id/edtQuantity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/product_quantity"
+        android:inputType="number"
+        android:digits="0123456789"
+        android:maxLength="2"
+        android:layout_margin="@dimen/margin"/>
+
+    <ImageButton
+        android:id="@+id/imgAddToCart"
+        android:layout_width="320dp"
+        android:layout_height="100dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/cart"
+        android:background="@color/white"
+        android:contentDescription="@string/add_to_cart"
+        android:layout_margin="@dimen/margin"
+        android:layout_gravity="center"/>
+
+</LinearLayout>
